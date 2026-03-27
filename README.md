@@ -19,6 +19,7 @@ Building AI-powered tools for smarter, safer construction
 ### 🛣️ Asphalt AI Tool
 Predicts asphalt quality and operational performance using ML + Streamlit interface  
 👉 [View Repository](https://github.com/R-SAMSAMI/asphalt-ai-tool)
+![App Screenshot](app_screenshot1.png)
 
 ### 🌉 Bridge Inspection (Deep Learning)
 Automated defect detection using transformer-based vision models (RvT, ViT, CvT)  
