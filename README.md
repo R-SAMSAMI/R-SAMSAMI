@@ -28,8 +28,8 @@ Predicts asphalt quality and operational performance using ML + Streamlit interf
 UAS-based thermal imaging + YOLO for infrastructure analysis  
 👉 [View Repository](https://github.com/R-SAMSAMI/thermal-bridge-detection)
 
-### 📊 Example Result (Figure 10)
-![Thermal Bridge Detection](https://raw.githubusercontent.com/R-SAMSAMI/thermal-bridge-detection/main/figure10.png)
+### 📊 Example Result
+![Thermal Bridge Detection](https://raw.githubusercontent.com/R-SAMSAMI/thermal-bridge-detection/main/figures/figure10.png)
 
 
 ### 🌉 Bridge Inspection (Deep Learning)
