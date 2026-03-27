@@ -29,7 +29,7 @@ UAS-based thermal imaging + YOLO for infrastructure analysis
 👉 [View Repository](https://github.com/R-SAMSAMI/thermal-bridge-detection)
 
 ### 📊 Example Result
-![Thermal Bridge Detection](https://raw.githubusercontent.com/R-SAMSAMI/thermal-bridge-detection/main/figures/figure10.png)
+![Thermal Bridge Detection](https://raw.githubusercontent.com/R-SAMSAMI/thermal-bridge-detection/main/figures/Figure10.png)
 
 
 ### 🌉 Bridge Inspection (Deep Learning)
