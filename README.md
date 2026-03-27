@@ -21,7 +21,7 @@ Predicts asphalt quality and operational performance using ML + Streamlit interf
 👉 [View Repository](https://github.com/R-SAMSAMI/asphalt-ai-tool)
 
 ## 🚀 App Preview
-![Asphalt AI Tool](app_screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/R-SAMSAMI/asphalt-ai-tool/main/app_screenshot1.png)
 
 ### 🌉 Bridge Inspection (Deep Learning)
 Automated defect detection using transformer-based vision models (RvT, ViT, CvT)  
