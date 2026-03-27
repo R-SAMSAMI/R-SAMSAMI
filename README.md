@@ -23,13 +23,18 @@ Predicts asphalt quality and operational performance using ML + Streamlit interf
 ## 🚀 App Preview
 ![App Screenshot](https://raw.githubusercontent.com/R-SAMSAMI/asphalt-ai-tool/main/app_screenshot1.png)
 
-### 🌉 Bridge Inspection (Deep Learning)
-Automated defect detection using transformer-based vision models (RvT, ViT, CvT)  
-👉 [View Repository](https://github.com/R-SAMSAMI/deep-learning-bridge-inspection)
 
 ### 🏗️ Thermal Bridge Detection
 UAS-based thermal imaging + YOLO for infrastructure analysis  
 👉 [View Repository](https://github.com/R-SAMSAMI/thermal-bridge-detection)
+
+### 📊 Example Result (Figure 10)
+![Thermal Bridge Detection](https://raw.githubusercontent.com/R-SAMSAMI/thermal-bridge-detection/main/figure10.png)
+
+
+### 🌉 Bridge Inspection (Deep Learning)
+Automated defect detection using transformer-based vision models (RvT, ViT, CvT)  
+👉 [View Repository](https://github.com/R-SAMSAMI/deep-learning-bridge-inspection)
 
 
 ---
