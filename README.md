@@ -2,6 +2,7 @@
 
 Assistant Professor at the University of New Haven  
 Ph.D. in Civil Engineering | M.S. in Data Science (Expected Spring 2026) 
+
 Building AI-powered tools for smarter, safer construction  
 
 ---
