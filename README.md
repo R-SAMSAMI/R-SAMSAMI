@@ -1,50 +1,42 @@
 # 👋 Hi, I’m Reihaneh (Rei) Samsami
 
+AI Engineer | Applied AI for smarter, safer construction  
 Assistant Professor at the University of New Haven  
-Ph.D. in Civil Engineering | M.S. in Data Science (Expected Spring 2026) 
+Ph.D. in Civil Engineering | M.S. in Data Science (Expected Spring 2026)  
 
-Building AI-powered tools for smarter, safer construction  
-
----
-
-## 🧠 Research Focus
-- AI for construction inspection and monitoring  
-- Computer vision (YOLO, Vision Transformers, VLMs)  
-- Drone (UAS) data + BIM integration  
-- Vision-language models (CLIP, BLIP) for hazard understanding  
+Building multimodal AI tools for construction safety, inspection, and operational decision support  
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Focus Areas
+- Multimodal AI for construction workflows  
+- Construction safety, hazard analysis, and field decision support  
+- Computer vision and vision-language systems  
+- Inspection automation, infrastructure monitoring, and AI product prototyping  
 
-### 🛣️ Asphalt AI Tool
-Predicts asphalt quality and operational performance using ML + Streamlit interface  
-👉 [View Repository](https://github.com/R-SAMSAMI/asphalt-ai-tool)
+---
 
-## 🚀 App Preview
-![App Screenshot](https://raw.githubusercontent.com/R-SAMSAMI/asphalt-ai-tool/main/app_screenshot1.png)
+## 🚀 Featured Work
 
+### 🏗️ Construction Safety Copilot
+A multimodal AI application for construction site image analysis and safety-oriented report generation. It combines image input and field context to produce structured preliminary safety observations, PPE guidance, supervisor follow-up questions, toolbox talk points, and report-ready summaries.  
+👉 [View Repository](https://github.com/R-SAMSAMI/construction-safety-copilot)
 
-### 🏗️ Thermal Bridge Detection
-UAS-based thermal imaging + YOLO for infrastructure analysis  
-👉 [View Repository](https://github.com/R-SAMSAMI/thermal-bridge-detection)
+### 🎥 Demo Preview
+![Construction Safety Copilot Demo](https://raw.githubusercontent.com/R-SAMSAMI/construction-safety-copilot/main/assets/demo-preview.gif)
 
-### 📊 Example Result
-![Thermal Bridge Detection](https://raw.githubusercontent.com/R-SAMSAMI/thermal-bridge-detection/main/figures/Figure10.png)
-
-
-### 🌉 Bridge Inspection (Deep Learning)
-Automated defect detection using transformer-based vision models (RvT, ViT, CvT)  
-👉 [View Repository](https://github.com/R-SAMSAMI/deep-learning-bridge-inspection)
-
+### 📸 App Screens
+![Construction Safety Copilot Intake](https://raw.githubusercontent.com/R-SAMSAMI/construction-safety-copilot/main/assets/screenshot-intake.png)
+![Construction Safety Copilot Results](https://raw.githubusercontent.com/R-SAMSAMI/construction-safety-copilot/main/assets/screenshot-results.png)
 
 ---
 
 ## 🔗 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rsamsami)
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=6AyoxZ0AAAAJ&hl=en&oi=ao)
+- 🚀 [View Project](https://github.com/R-SAMSAMI/construction-safety-copilot)
 
 ---
 
 ## ⚡ Fun Fact
-I make one of the best baklavas in the world—precision matters everywhere.
+I make one of the best baklavas in the world, and yes, precision matters everywhere.
