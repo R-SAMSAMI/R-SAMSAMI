@@ -1,14 +1,15 @@
-# Hi, I'm Reihaneh (Rei) Samsami
+# 👋 Hi, I'm Reihaneh (Rei) Samsami
 
 AI Engineer focused on applied AI for smarter, safer construction  
 Assistant Professor at the University of New Haven  
 Ph.D. in Civil Engineering | M.S. in Data Science (Expected Spring 2026)
 
 I build AI systems for construction safety, inspection, document intelligence, and operational decision support.
+From Civil Engineering to Construction Management, an MBA, and now Data Science, my journey reflects how much I love learning, adapting, and growing across disciplines.
 
 ---
 
-## Focus Areas
+## 🧠 Focus Areas
 - Multimodal AI for construction workflows
 - Construction safety, hazard analysis, and field decision support
 - Computer vision and vision-language systems
@@ -17,7 +18,7 @@ I build AI systems for construction safety, inspection, document intelligence, a
 
 ---
 
-## Public Projects
+## 🚀 Public Projects
 
 ### Construction Safety Copilot
 A multimodal AI application for construction site image analysis and safety-oriented report generation. It combines image input and field context to produce structured preliminary safety observations, PPE guidance, supervisor follow-up questions, toolbox talk points, and report-ready summaries.  
@@ -33,16 +34,16 @@ A document intelligence application for uploading construction documents and ask
 
 ---
 
-## Note On My Work
+## 📌 Note On My Work
 I have worked on many more AI and engineering projects than what is visible here. A large portion of that work cannot be shared publicly because of funding restrictions, ownership, collaboration agreements, or client constraints. I still try to keep GitHub updated with representative public projects that reflect the kinds of systems I build and the problems I work on.
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/rsamsami)
 - [Google Scholar](https://scholar.google.com/citations?user=6AyoxZ0AAAAJ&hl=en&oi=ao)
 
 ---
 
-## Fun Fact
+## ✨ Fun Fact
 I make one of the best baklavas in the world, and yes, precision matters everywhere.
