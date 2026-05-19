@@ -144,6 +144,12 @@ GitHub is where I keep representative public projects that show the systems I bu
 
 ---
 
+## Fun Fact
+
+I make one of the best baklavas in the world, and yes, precision matters everywhere.
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reihaneh%20Samsami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsamsami)
