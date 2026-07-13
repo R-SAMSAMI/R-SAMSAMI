@@ -82,6 +82,7 @@ My work sits at the intersection of **AI engineering**, **data products**, and *
 | --- | --- | --- |
 | [Agentic Construction Safety Copilot](https://github.com/R-SAMSAMI/agentic-construction-safety-copilot) | Multimodal safety assistant that analyzes project context and site imagery to generate observations, risk summaries, corrective actions, and report-ready outputs. | Python, Streamlit, OpenAI API, multimodal AI, structured outputs |
 | [Construction Docs Copilot](https://github.com/R-SAMSAMI/construction-docs-copilot) | Document intelligence copilot for technical manuals, specifications, and safety documents with grounded answers and source-backed summaries. | Python, Streamlit, OpenAI API, PyPDF, python-docx, Pydantic |
+| [Does Grounding Matter? LLMs vs. Agency Standards](https://github.com/R-SAMSAMI/inspection-llm-grounding) | Controlled 600-response benchmark (3 LLMs x 70 questions x 3 conditions) isolating what closed-book, RAG, and full-document grounding actually do for construction inspection Q&A. Submitted to TRB 2027. | Python, RAG, LLM evaluation, Claude/GPT/Gemini APIs, benchmarking |
 
 ### Computer Vision, Inspection, and Field AI
 
