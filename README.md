@@ -56,7 +56,7 @@ An end-to-end medallion pipeline turning Revit schedule exports into governed, q
 ---
 
 ### Agentic Construction Safety Copilot
-**[`agentic-construction-safety-copilot`](https://github.com/R-SAMSAMI/agentic-construction-safety-copilot)**
+**[`agentic-construction-safety-copilot`](https://github.com/R-SAMSAMI/agentic-construction-safety-copilot)** · [![Live demo](https://img.shields.io/badge/Live%20demo-open-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://rei-safety-copilot.streamlit.app/)
 
 A multimodal safety review workspace that turns field observations and site photos into structured signals, risk posture, OSHA-style control-gap findings, corrective actions, and a toolbox-talk brief. Built as a workflow product, not a prompt wrapper.
 
@@ -77,7 +77,7 @@ Concept direction inspired by [Sharmin Jahan Badhan](https://github.com/sharmin3
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [Construction Docs Copilot](https://github.com/R-SAMSAMI/construction-docs-copilot) | Grounded Q&A over specifications, safety manuals, and method statements, returning source excerpts alongside every answer plus structured document summaries. Ingests PDF, DOCX, TXT, and Markdown. | Python, OpenAI API, PyPDF, python-docx, Pydantic, Streamlit |
+| [Construction Docs Copilot](https://github.com/R-SAMSAMI/construction-docs-copilot) · **[live demo](https://rei-docs-copilot.streamlit.app/)** | Grounded Q&A over specifications, safety manuals, and method statements, returning source excerpts alongside every answer plus structured document summaries. Ingests PDF, DOCX, TXT, and Markdown. | Python, OpenAI API, PyPDF, python-docx, Pydantic, Streamlit |
 | [Inspection Report Generator](https://github.com/R-SAMSAMI/inspection-report-generator) | Field and drone photos to structured defect findings, severity assessment, GPS-aware map context, and report-ready summaries. | Python, OpenAI Responses API, Pillow, Pydantic, geopy |
 | [Construction Safety Copilot](https://github.com/R-SAMSAMI/construction-safety-copilot) | Multimodal hazard review and safety reporting from site images and field context. The single-pass predecessor to the agentic version above. | Python, OpenAI API, multimodal AI, Streamlit |
 
@@ -86,7 +86,7 @@ Concept direction inspired by [Sharmin Jahan Badhan](https://github.com/sharmin3
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [BridgeWatch](https://github.com/R-SAMSAMI/bridgewatch) | Inspection-priority triage across the **FHWA National Bridge Inventory** — real federal data, not a toy set. State-level exploration, an interpretable decision tree benchmarked against a random forest, and a per-bridge explanation path showing why an asset was flagged. | scikit-learn, pandas, Streamlit |
-| [Project Risk Predictor](https://github.com/R-SAMSAMI/project-risk-predictor) | Schedule-delay and budget-overrun prediction from 16+ planning fields via 3 Random Forest models (2 classifiers, 1 regressor), with what-if analysis and visible risk drivers. Synthetic data generated to a realistic planning schema. | scikit-learn, pandas, NumPy, Plotly, Streamlit |
+| [Project Risk Predictor](https://github.com/R-SAMSAMI/project-risk-predictor) · **[live demo](https://rei-risk-predictor.streamlit.app/)** | Schedule-delay and budget-overrun prediction from 16+ planning fields via 3 Random Forest models (2 classifiers, 1 regressor). Delay-score reliability 0.796, budget-score reliability 0.855, mean delay gap 14.2 days across 3,500 project records, with what-if analysis and visible risk drivers. Synthetic data generated to a realistic planning schema. | scikit-learn, pandas, NumPy, Plotly, Streamlit |
 | [Construction Safety SQL](https://github.com/R-SAMSAMI/construction-safety-sql) | 5-table relational safety model (projects, contractors, hazard reports, incidents, corrective actions) with KPI dashboarding, high-risk work zone identification, and corrective-action aging. Synthetic records to a realistic schema. | SQL, SQLite, Python, pandas, Streamlit |
 | [Asphalt Plant Risk Tool](https://github.com/R-SAMSAMI/asphalt-ai-tool) | Operational risk estimation and corrective recommendations from plant conditions, using a deliberately interpretable model so operators can see the drivers. | Python, scikit-learn, Streamlit |
 
