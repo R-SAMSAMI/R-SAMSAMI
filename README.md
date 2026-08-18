@@ -78,7 +78,7 @@ Concept direction inspired by [Sharmin Jahan Badhan](https://github.com/sharmin3
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Construction Docs Copilot](https://github.com/R-SAMSAMI/construction-docs-copilot) · **[live demo](https://rei-docs-copilot.streamlit.app/)** | Grounded Q&A over specifications, safety manuals, and method statements, returning source excerpts alongside every answer plus structured document summaries. Ingests PDF, DOCX, TXT, and Markdown. | Python, OpenAI API, PyPDF, python-docx, Pydantic, Streamlit |
-| [Inspection Report Generator](https://github.com/R-SAMSAMI/inspection-report-generator) | Field and drone photos to structured defect findings, severity assessment, GPS-aware map context, and report-ready summaries. | Python, OpenAI Responses API, Pillow, Pydantic, geopy |
+| [Inspection Report Generator](https://github.com/R-SAMSAMI/inspection-report-generator) · **[live demo](https://rei-inspection-report.streamlit.app/)** | Field and drone photos to structured defect findings, severity assessment, GPS-aware map context, and report-ready summaries. | Python, OpenAI Responses API, Pillow, Pydantic, geopy |
 | [Construction Safety Copilot](https://github.com/R-SAMSAMI/construction-safety-copilot) | Multimodal hazard review and safety reporting from site images and field context. The single-pass predecessor to the agentic version above. | Python, OpenAI API, multimodal AI, Streamlit |
 
 ### Machine learning and decision support
@@ -87,7 +87,7 @@ Concept direction inspired by [Sharmin Jahan Badhan](https://github.com/sharmin3
 | --- | --- | --- |
 | [BridgeWatch](https://github.com/R-SAMSAMI/bridgewatch) | Inspection-priority triage across the **FHWA National Bridge Inventory** — real federal data, not a toy set. State-level exploration, an interpretable decision tree benchmarked against a random forest, and a per-bridge explanation path showing why an asset was flagged. | scikit-learn, pandas, Streamlit |
 | [Project Risk Predictor](https://github.com/R-SAMSAMI/project-risk-predictor) · **[live demo](https://rei-risk-predictor.streamlit.app/)** | Schedule-delay and budget-overrun prediction from 16+ planning fields via 3 Random Forest models (2 classifiers, 1 regressor). Delay-score reliability 0.796, budget-score reliability 0.855, mean delay gap 14.2 days across 3,500 project records, with what-if analysis and visible risk drivers. Synthetic data generated to a realistic planning schema. | scikit-learn, pandas, NumPy, Plotly, Streamlit |
-| [Construction Safety SQL](https://github.com/R-SAMSAMI/construction-safety-sql) | 5-table relational safety model (projects, contractors, hazard reports, incidents, corrective actions) with KPI dashboarding, high-risk work zone identification, and corrective-action aging. Synthetic records to a realistic schema. | SQL, SQLite, Python, pandas, Streamlit |
+| [Construction Safety SQL](https://github.com/R-SAMSAMI/construction-safety-sql) · **[live demo](https://rei-safety-sql.streamlit.app/)** | 5-table relational safety model (projects, contractors, hazard reports, incidents, corrective actions) with KPI dashboarding, high-risk work zone identification, and corrective-action aging. Synthetic records to a realistic schema. | SQL, SQLite, Python, pandas, Streamlit |
 | [Asphalt Plant Risk Tool](https://github.com/R-SAMSAMI/asphalt-ai-tool) | Operational risk estimation and corrective recommendations from plant conditions, using a deliberately interpretable model so operators can see the drivers. | Python, scikit-learn, Streamlit |
 
 ### Computer vision, field, and spatial AI
@@ -95,7 +95,7 @@ Concept direction inspired by [Sharmin Jahan Badhan](https://github.com/sharmin3
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Thermal Bridge Detection](https://github.com/R-SAMSAMI/thermal-bridge-detection) | YOLO-based thermal anomaly detection on UAS thermal imagery. | YOLO, PyTorch, thermal imaging |
-| [BridgeTwin Inspector](https://github.com/R-SAMSAMI/bridgetwin-inspector) | 3D plan-versus-scan analysis: generates a structural bridge model, simulates an observed scan with deviation and noise, then classifies every element as on-plan, shifted, missing, or extra. | Python, scikit-learn, 3D visualization |
+| [BridgeTwin Inspector](https://github.com/R-SAMSAMI/bridgetwin-inspector) · **[live demo](https://rei-bridgetwin.streamlit.app/)** | 3D plan-versus-scan analysis: generates a structural bridge model, simulates an observed scan with deviation and noise, then classifies every element as on-plan, shifted, missing, or extra. | Python, scikit-learn, 3D visualization |
 | [UAV Bridge Inspection Mapping](https://github.com/R-SAMSAMI/spatial-bridge-inspection) | GPS metadata extracted straight from UAS imagery into geolocated inspection points, published both as an interactive Python map and a live ArcGIS Online layer. | Python, geospatial analytics, ArcGIS |
 | [Drone Vision-Language Navigation](https://github.com/R-SAMSAMI/drone-vln) | Two-drone cooperative rescue search where the target location is hidden at mission start. Drones search on local nadir camera footprints, natural-language hints act as a search prior rather than coordinates, and response hands off to the best-positioned drone. | Python, vision-language models, multi-agent search |
 
